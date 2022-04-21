@@ -4,13 +4,13 @@ body {
     display: flex;
 }
 
-#qrImage {
+.qrImage {
     width: 100px;
     height: 100px;
     border-radius: 5%;
 }
 
-#component {
+.card-component {
     margin-top: 20px;
     margin-left: 50px;
     border-radius: 7%;
